@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insight-so-git&label=Profile%20views&color=0e75b6&style=flat" alt="insight-so-git" /> </p>
 
-<img src = "https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" height = 450 width = 450 align = "right"/>
+<img src = "https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" height = 450 width = 400 align = "right"/>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
